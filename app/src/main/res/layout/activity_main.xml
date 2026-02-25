@@ -11,7 +11,7 @@
     <ImageView
         android:layout_width="140dp"
         android:layout_height="140dp"
-        android:src="@drawable/mithun"
+        android:src="@drawable/prem"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"/>
 
@@ -20,7 +20,7 @@
         android:id="@+id/tvRollNo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Roll No: A24126510092"
+        android:text="Roll No: A24126510064"
         android:textSize="22sp"
         android:textStyle="bold"
         android:textColor="#1A237E"
